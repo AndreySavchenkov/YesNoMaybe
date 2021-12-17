@@ -2,7 +2,7 @@
   "name": "yes-no-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AndreySavchenkov.github.io/YesNoMaybe",
+  "homepage": "https://andreysavchenkov.github.io/YesNoMaybe/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
